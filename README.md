@@ -1,5 +1,5 @@
 # MyFirstWebsite
-Project individu untuk Submission kelas **Belajar Dasar Pemrograman Web** yang disediakan Dicoding, pada projek ini berisikan artikel dari bahasa dasar yang digunakan untuk membuat suatu web seperti HTML, CSS, dan JavaScript.
+Project pertama dan project individu untuk Submission kelas **Belajar Dasar Pemrograman Web** yang disediakan Dicoding, pada projek ini berisikan artikel dari bahasa dasar yang digunakan untuk membuat suatu web seperti HTML, CSS, dan JavaScript.
 
 ## Tech
 
